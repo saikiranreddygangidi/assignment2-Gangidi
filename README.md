@@ -8,7 +8,10 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 
 ------
 
-###CONTAINERZING THE APPLICATION
+
+
+
+### CONTAINERZING THE APPLICATION
 
 
 1. To containerize a application we need to create a docker file.
@@ -24,10 +27,12 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 4. Then after building the we need to run the container by using command docker run.
 
 
+
+
 * The necessary software to run docker files are given below
     * Docker Desktop 
     * vscode
-    
+
 
 
 
