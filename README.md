@@ -38,6 +38,14 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 [Here is the my information that is link to AboutMe](AboutMe.md)
 
 
+----
+
+### Recommendation of places to visit
+
+| :LOCATION: | :NUMBER OF HOURS TO SPEND: | :AMOUNT OF MONEY TO PAY: |
+| ---|---|---|
+
+
 
 
     
