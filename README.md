@@ -47,7 +47,7 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 
 | LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
 | ---|---|---|
-|Alexandria, Virginia| :48: | 425 dollars per day|
+|Alexandria, Virginia| : 48 : | 425 dollars per day|
 |Stateline, Nevada| 24 | 300 dollars per day |
 |Chicago, Illinois | 36 | 375 dollars per day|
 | Anaheim, California| 48 | 325 dollars per day |
