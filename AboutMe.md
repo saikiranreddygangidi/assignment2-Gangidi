@@ -1,0 +1,5 @@
+# SAIKIRAN REDDY GANGIDI(s541902)
+
+[Here is the link to image of mine](saikiranreddygangidi.jpeg)
+
+I am a self-starter fresher with strong interpersonal skills seeking for a position in a sofware company. I work efficiently both as an individual contributor as well as along with a team. I seek new challenges and try to think out-of-the-box while looking for creative solutions to a given problem. I had experience over various technologies such as MEAN, MERN stacks, Dash, Django, MySQL, SQL, selenium,Nosql,Plotly, Flask, PHP,AWS,Docker Kubernetes.I can able to code in programming languages like c,c++,java,python and I believe in character, values, vision, and action. I am a quick learner and believe in learning from my mistakes for I strongly feel that this virtue will take me ahead in life and career.
