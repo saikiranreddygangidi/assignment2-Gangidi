@@ -42,7 +42,7 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 
 ### Recommendation of places to visit
 
-| :LOCATION: | :NUMBER OF HOURS TO SPEND: | :AMOUNT OF MONEY TO PAY: |
+| : LOCATION : | : NUMBER OF HOURS TO SPEND : | : AMOUNT OF MONEY TO PAY : |
 | ---|---|---|
 
 
