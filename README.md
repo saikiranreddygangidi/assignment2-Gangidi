@@ -52,6 +52,8 @@ This tropical state in southern India is growing in popularity, though we still 
 | LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
 | ---|:---:|---|
 |kerala|72| 675 dollars per day|
+
+
 <br><br>
 
 ### 2.Thar Desert
