@@ -125,5 +125,4 @@ func main() {
 }
 
 ```
-
-Quick Line <https://gobyexample.com/hello-world>
+quick-link for the code source. <https://gobyexample.com/hello-world>
