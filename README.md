@@ -53,6 +53,7 @@ This tropical state in southern India is growing in popularity, though we still 
 | ---|:---:|---|
 |kerala|72| 675 dollars per day|
 
+![kerala](kerala.jpg)
 
 <br><br>
 
@@ -66,9 +67,10 @@ The 77,000 square miles that make up India’s sprawling Thar Desert, known also
 | ---|:---:|---|
 |Thar Desert|48| 300 dollars per day|
 
+![Thar Desert](thardesert.jpg)
 <br><br>
 
-### 3. The ganes
+### 3. The ganges
 
 Extensive pollution has muddled the waters and reputation of the mighty river Ganges, but nevertheless, it remains a holy lifeline of Hinduism in India. Two of the country’s oldest and holiest cities—**Varanasi** and **Haridwarare** built along the river’s banks, where Hindus worldwide make the pilgrimage in order to submerge themselves and wash away their sins. Not far from Haridwar, but still along the river, is Rishikesh—the self-prescribed yoga capital of the world.
 
@@ -76,9 +78,9 @@ Extensive pollution has muddled the waters and reputation of the mighty river Ga
 
 | LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
 | ---|:---:|---|
-| The ganes|24|200 dollars per day|
+| The ganges|24|200 dollars per day|
 
-
+![ganges](ganges.jpg)
 <br><br>
 
 ### 4.Yumthang Valley, Sikkim
@@ -91,6 +93,7 @@ As far as natural beauty is concerned, it doesn’t get much better than Yumthan
 | ---|:---:|---|
 |Yumthang Valley, Sikkim| 12| 250 dollars per day |
 
+![Yumthang Valley](sikim.jpg)
 <br><br>
 
 
