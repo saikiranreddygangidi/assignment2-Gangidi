@@ -41,17 +41,57 @@ I love Biryani, the famous layered, **fragrant rice and meat dish** that takes h
 ----
 <br>
 
-### Recommendation of places to visit
+## Recommendation of places to visit
 <br>
 <br>
 
+### 1. kerala
+
+This tropical state in southern India is growing in popularity, though we still find it hard to understand why it hasn’t always topped travelers’ bucket lists. The best of the region lies in two distinct landscapes, one being the scenic tea and spice plantations of Munnar (also loved for its camping, trekking, and wildlife spotting). The **Tata Tea Museum** is a must for tea-lovers looking for more on tea history and production. Kerala’s other (and arguably more famous) region is its **backwaters**, a network of lagoons linked by canals fringed with palm trees, stilted villages, and rice paddies. The easiest way to take it all in is by houseboat, which meander their way downriver and make for a seriously relaxing sojourn.
+<br><br>
 | LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
 | ---|:---:|---|
-|Alexandria, Virginia|48| 425 dollars per day|
-|Stateline, Nevada| 24 | 300 dollars per day |
-|Chicago, Illinois | 36 | 375 dollars per day|
-| Anaheim, California| 48 | 325 dollars per day |
-|Lake George, New York| 18 | 275 dollars per day |
+|kerala|72| 675 dollars per day|
+<br><br>
+
+### 2.Thar Desert
+
+
+The 77,000 square miles that make up India’s sprawling Thar Desert, known also as the Great Indian Desert, draw a nigh-impenetrable line between India and Pakistan, but you only have to venture so far as Jodhpur or Jaisalmer to catch a glimpse of its shifting dunes and desert culture. Time your visit with the **Desert Festival** to see Thar women in traditional garb making the journey with their great pots of water, the unique—and deeply traditional—competitions involving turban tying and camel dress-up, and folk music and dance performances.
+<br><br>
+
+| LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
+| ---|:---:|---|
+|Thar Desert|48| 300 dollars per day|
+
+<br><br>
+
+### 3. The ganes
+
+Extensive pollution has muddled the waters and reputation of the mighty river Ganges, but nevertheless, it remains a holy lifeline of Hinduism in India. Two of the country’s oldest and holiest cities—**Varanasi** and **Haridwarare** built along the river’s banks, where Hindus worldwide make the pilgrimage in order to submerge themselves and wash away their sins. Not far from Haridwar, but still along the river, is Rishikesh—the self-prescribed yoga capital of the world.
+
+<br><br>
+
+| LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
+| ---|:---:|---|
+| The ganes|24|200 dollars per day|
+
+
+<br><br>
+
+### 4.Yumthang Valley, Sikkim
+
+As far as natural beauty is concerned, it doesn’t get much better than Yumthang Valley in North Sikkim’s high Himalayan mountains, known as the **“Valley of Flowers.”** Every July to September, trekkers are allowed into the valley, whose sloping meadows are temporarily set ablaze with the colors of several hundred species of orchids, rhododendrons, and native wildflowers. On your hike, keep your eyes peeled for blue sheep and musk deer.
+
+<br><br>
+
+| LOCATION  |  NUMBER OF HOURS TO SPEND |  EXCEPTED MONEY TO PAY  |
+| ---|:---:|---|
+|Yumthang Valley, Sikkim| 12| 250 dollars per day |
+
+<br><br>
+
+
 
 
     
