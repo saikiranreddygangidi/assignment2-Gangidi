@@ -100,9 +100,9 @@ As far as natural beauty is concerned, it doesn’t get much better than Yumthan
 ## Favourite Quotes
 
 >"Even if we don't have the power to choose where we come from, we can still choose where we go from there."
-*Stephen Chbosky*
+*-Stephen Chbosky*
 
 
 >"We are cups, constantly and quietly being filled. The trick is knowing how to tip ourselves over and let the beautiful stuff out." 
-*Ray Bradbury*
+*-Ray Bradbury*
     
